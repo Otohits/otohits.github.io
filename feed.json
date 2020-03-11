@@ -1,0 +1,16 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Otohits blog",
+    "home_page_url": "https://blog.otohits.net",
+    "feed_url": "https://blog.otohits.net/feed.json",
+    "description": "News and articles about Otohits.net website",
+    "items": [
+        {
+            "id": "https://blog.otohits.net/2020/03/09/first-news/",
+            "url": "https://blog.otohits.net/2020/03/09/first-news/",
+            "title": "Hello Otohits blog",
+            "summary": "Since the beginning of Otohits, newsletters were the only way of communicating with you. Although it was perfect few years ago, it became more and more complicated to use.\n\nFrom newsletters to blog posts\n\nThe last newsletter was sent more than 2 years ago (November 2017). It doesn't mean that wor ...",
+            "date_modified": "2020-03-09T00:00:00.000Z"
+        }
+    ]
+}

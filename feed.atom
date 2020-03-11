@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.otohits.net</id>
+    <title>Otohits blog</title>
+    <updated>2020-03-11T03:11:29.868Z</updated>
+    <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+    <link rel="alternate" href="https://blog.otohits.net"/>
+    <link rel="self" href="https://blog.otohits.net/feed.atom"/>
+    <subtitle>News and articles about Otohits.net website</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Hello Otohits blog]]></title>
+        <id>https://blog.otohits.net/2020/03/09/first-news/</id>
+        <link href="https://blog.otohits.net/2020/03/09/first-news/">
+        </link>
+        <updated>2020-03-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Since the beginning of Otohits, newsletters were the only way of communicating with you. Although it was perfect few years ago, it became more and more complicated to use.
+
+From newsletters to blog posts
+
+The last newsletter was sent more than 2 years ago (November 2017). It doesn't mean that wor ...]]></summary>
+    </entry>
+</feed>
