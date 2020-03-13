@@ -35,5 +35,13 @@ module.exports = {
                 link: 'https://www.otohits.net',
             }, ],
         },
-    }
+    },
+    plugins: [
+        [
+            '@vuepress/google-analytics',
+            {
+                'ga': 'UA-141036540-2'
+            }
+        ]
+    ]
 };
