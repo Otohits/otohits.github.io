@@ -3,7 +3,7 @@
     "title": "Otohits blog",
     "home_page_url": "https://blog.otohits.net",
     "feed_url": "https://blog.otohits.net/feed.json",
-    "description": "News and articles about Otohits.net website",
+    "description": "News and articles about Otohits.net website. Stay up to date with the new features for your surf.",
     "items": [
         {
             "id": "https://blog.otohits.net/2013/12/01/_2013-archives/",
@@ -78,7 +78,7 @@
         {
             "id": "https://blog.otohits.net/2015/08/27/app-v3-update/",
             "url": "https://blog.otohits.net/2015/08/27/app-v3-update/",
-            "title": "Newsletter - App v3 update",
+            "title": "Newsletter - App v3 feedback",
             "summary": "This is a copy of an old Othits newsletter\n\nFirst feedbacks for the V3 of the Application are pretty good. Despite few minor issues, it seems to run pretty well. Clicks and auto scroll on pages will be normally introduced early September.\n\nThis looks like the right time to introduce back our conte ...",
             "date_modified": "2015-08-27T00:00:00.000Z"
         },
