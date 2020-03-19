@@ -1,6 +1,6 @@
 ---
 author: Otohits Webmaster
-title: Newsletter - App v3 update
+title: Newsletter - App v3 feedback
 date: 2015-08-27
 tags:
     - Newsletter

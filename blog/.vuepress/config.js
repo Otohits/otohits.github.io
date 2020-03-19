@@ -1,6 +1,6 @@
 module.exports = {
     title: 'Otohits blog',
-    description: 'News and articles about Otohits.net website',
+    description: 'News and articles about Otohits.net website. Stay up to date with the new features for your surf.',
     theme: '@vuepress/theme-blog',
     themeConfig: {
         dateFormat: 'YYYY-MM-DD',
