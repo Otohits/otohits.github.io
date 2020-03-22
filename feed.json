@@ -6,60 +6,75 @@
     "description": "News and articles about Otohits.net website. Stay up to date with the new features for your surf.",
     "items": [
         {
-            "id": "https://blog.otohits.net/2013/12/01/_2013-archives/",
-            "url": "https://blog.otohits.net/2013/12/01/_2013-archives/",
-            "title": "Newsletter - Old 2013 news",
-            "summary": "This is a copy of an old Othits newsletter\n\n2013-12-01\n\nThis newsletter is just to remind you that 2 contests start today!\nThere are 10 Euros and 1.4 million points to win.\nGood luck and have a good surf.\n\n2013-11-23\n\nI'm pleased to announce you that a new feature has arrived on Otohits: the ...",
-            "date_modified": "2013-12-01T00:00:00.000Z"
+            "id": "https://blog.otohits.net/2020/03/21/app-old-and-new/",
+            "url": "https://blog.otohits.net/2020/03/21/app-old-and-new/",
+            "title": "Applications: the old (v3), the current (definitive) and the next one",
+            "summary": "The v3 of the App was launched in August 2015 on Windows. The .Net Framework was not necessary anymore, but it was a simple window without the possibility to see the navigated websites.\n\nApp v3.1 for Windows\n\nQuickly after, the 3.1 came out to bring back this fe ...",
+            "image": "https://blog.otohits.net/img/blog/2020/v3.1_windows.jpg",
+            "date_modified": "2020-03-21T00:00:00.000Z"
         },
         {
-            "id": "https://blog.otohits.net/2015/09/09/old-news/",
-            "url": "https://blog.otohits.net/2015/09/09/old-news/",
-            "title": "Newsletter - Old 2014 news",
-            "summary": "This is a copy of an old Othits newsletter\n\n2014-21-09\n\nThe first version of the semi-automatic validation is now active. That's the first step that will lead to a true automatic validation for websites. It will require some time to improve his accuracy, but from now you will maybe notice a f ...",
-            "date_modified": "2015-09-09T00:00:00.000Z"
+            "id": "https://blog.otohits.net/2020/03/09/first-news/",
+            "url": "https://blog.otohits.net/2020/03/09/first-news/",
+            "title": "Hello Otohits blog",
+            "summary": "Since the beginning of Otohits, newsletters were the only way of communicating with you. Although it was perfect few years ago, it became more and more complicated to use.\n\nFrom newsletters to blog posts\n\nThe last newsletter was sent more than 2 years ago (November 2017). It doesn't mean that wor ...",
+            "date_modified": "2020-03-09T00:00:00.000Z"
         },
         {
-            "id": "https://blog.otohits.net/2014/10/05/contests/",
-            "url": "https://blog.otohits.net/2014/10/05/contests/",
-            "title": "Newsletter - Contest and updates",
-            "summary": "This is a copy of an old Othits newsletter\n\nThe contest of September is over. All Winners have been rewarded.\n\nAs a result of this contest, there are also some members that tried to cheat by creating multiple accounts. These false accounts now pollute the website.\nRules will be put in place to cle ...",
-            "date_modified": "2014-10-05T00:00:00.000Z"
+            "id": "https://blog.otohits.net/2017/11/05/newsletter-definitive-edition/",
+            "url": "https://blog.otohits.net/2017/11/05/newsletter-definitive-edition/",
+            "title": "Newsletter - Definitive Edition App",
+            "summary": "This is a copy of an old Othits newsletter\n\nCoin miners are spreading over a lot of websites. We consider them to be clearly not adapted to autosurfs as they are mostly misused (taking up all the CPU without user consent). It will likely result in a bad user experience and as such we do not approv ...",
+            "date_modified": "2017-11-05T00:00:00.000Z"
         },
         {
-            "id": "https://blog.otohits.net/2014/10/22/new-app/",
-            "url": "https://blog.otohits.net/2014/10/22/new-app/",
-            "title": "Newsletter - Application update",
-            "summary": "This is a copy of an old Othits newsletter\n\nA new version of the application is ready. It will bring a lot of new features:\nIt will now support random user-agent. The current version use a Chrome user-agent. The new version will use a different user-agent for each visit. If you don't want a rand ...",
-            "date_modified": "2014-10-22T00:00:00.000Z"
+            "id": "https://blog.otohits.net/2017/05/25/newsletter-anniversary-4/",
+            "url": "https://blog.otohits.net/2017/05/25/newsletter-anniversary-4/",
+            "title": "Newsletter - Happy birthday Otohits!",
+            "summary": "This is a copy of an old Othits newsletter\n\nOtohits is 4 years old!\nLet's take a moment to see what happened during this year.\n\nWe welcomed 49 000 new members as well as providing almost 7 billion visits, that's more than the 3 previous years combined!\nTo all the members: a big thanks for all of y ...",
+            "date_modified": "2017-05-25T00:00:00.000Z"
         },
         {
-            "id": "https://blog.otohits.net/2014/11/02/site-update/",
-            "url": "https://blog.otohits.net/2014/11/02/site-update/",
-            "title": "Newsletter - Website update",
-            "summary": "This is a copy of an old Othits newsletter\n\nThe update of the website and the application went well yesterday.\n\nFor information, here are the main changes:\nThe application now comes with an automatic updater. If a new version comes out, it will download it, install it and then relaunch the appli ...",
-            "date_modified": "2014-11-02T00:00:00.000Z"
+            "id": "https://blog.otohits.net/2017/03/04/newsletter-high-quality/",
+            "url": "https://blog.otohits.net/2017/03/04/newsletter-high-quality/",
+            "title": "Newsletter - High quality mod",
+            "summary": "This is a copy of an old Othits newsletter\n\nA new feature will be released soon, it's called the \"High quality mod\".\nThe concept is quite simple: activating this feature will considerably reduce the visits from proxies/VPS/Servers and low quality computers and thus provide a more natural traffic f ...",
+            "date_modified": "2017-03-04T00:00:00.000Z"
         },
         {
-            "id": "https://blog.otohits.net/2014/11/02/app-v2-patch/",
-            "url": "https://blog.otohits.net/2014/11/02/app-v2-patch/",
-            "title": "Newsletter - Application v2 patch",
-            "summary": "This is a copy of an old Othits newsletter\n\nThis is a quick message to inform you that some members encountered issues with the new version of the application.\nEven though not everyone is impacted, I don't like the idea of leaving too much people behind.\n\nI decided to disable the new feature broug ...",
-            "date_modified": "2014-11-02T00:00:00.000Z"
+            "id": "https://blog.otohits.net/2016/11/30/otohits-api/",
+            "url": "https://blog.otohits.net/2016/11/30/otohits-api/",
+            "title": "Newsletter - Otohits Api",
+            "summary": "This is a copy of an old Othits newsletter\n\nWe are happy to push forward the autosurf world by providing you the Otohits API. Officially launched today, it is a brand new way to use and manage your links and data, but also a new tool that allows you to imagine, create and share new solutions for a ...",
+            "date_modified": "2016-11-30T00:00:00.000Z"
         },
         {
-            "id": "https://blog.otohits.net/2014/12/20/newsletter/",
-            "url": "https://blog.otohits.net/2014/12/20/newsletter/",
-            "title": "Newsletter - Late 2014",
-            "summary": "This is a copy of an old Othits newsletter\n\nUser-agent override is available. You can find it on the details page of your websites. It is free for moment (no extra cost). This feature will remain in Beta until his efficiency will be considered as good.\n\nMaximum Timer has been raised to 600 sec ...",
-            "date_modified": "2014-12-20T00:00:00.000Z"
+            "id": "https://blog.otohits.net/2016/08/28/linux-app/",
+            "url": "https://blog.otohits.net/2016/08/28/linux-app/",
+            "title": "Newsletter - Linux App",
+            "summary": "This is a copy of an old Othits newsletter\n\nA working version of the Linux application has been published few days ago. Like you maybe know, this is the result of an intensive work over the last months. The launch of the Linux App is a huge milestone for Otohits and I hope you will like it. We're ...",
+            "date_modified": "2016-08-28T00:00:00.000Z"
         },
         {
-            "id": "https://blog.otohits.net/2015/02/01/newsletter/",
-            "url": "https://blog.otohits.net/2015/02/01/newsletter/",
-            "title": "Newsletter - Early 2015",
-            "summary": "This is a copy of an old Othits newsletter\n\nJust before Christmas, I was happy to announce that we were a bit more than 800 to surf constantly, generating more than 2.5 millions visits per day. I'm glad to say that these figures just doubled in 1 month! Surf sessions are between 1500 and 1600 at ...",
-            "date_modified": "2015-02-01T00:00:00.000Z"
+            "id": "https://blog.otohits.net/2016/05/25/happy-birthday/",
+            "url": "https://blog.otohits.net/2016/05/25/happy-birthday/",
+            "title": "Newsletter - Happy Birthday Otohits!",
+            "summary": "This is a copy of an old Othits newsletter\n\nOtohits is 3 years old!\n\nIt is the perfect time to make a little retrospective on what happened.\n\nFirst, here are some nice figures compared to last year:\n57 000 members (+185%)\nAround 6 000 active surfers 24h/24 (+122%)\n74 000 links registered (+4 ...",
+            "date_modified": "2016-05-25T00:00:00.000Z"
+        },
+        {
+            "id": "https://blog.otohits.net/2016/05/23/app-v3-1/",
+            "url": "https://blog.otohits.net/2016/05/23/app-v3-1/",
+            "title": "Newsletter - App v3.1",
+            "summary": "This is a copy of an old Othits newsletter\n\nI'm pleased to announce you that a new version of the application is available.\n\nThis major update brings you 2 editions of the Application:\nDesktop: New viewer with the browser integrated in the Application (equivalent to the V2 look and feel).\nVPS: ...",
+            "date_modified": "2016-05-23T00:00:00.000Z"
+        },
+        {
+            "id": "https://blog.otohits.net/2015/08/27/app-v3-update/",
+            "url": "https://blog.otohits.net/2015/08/27/app-v3-update/",
+            "title": "Newsletter - App v3 feedback",
+            "summary": "This is a copy of an old Othits newsletter\n\nFirst feedbacks for the V3 of the Application are pretty good. Despite few minor issues, it seems to run pretty well. Clicks and auto scroll on pages will be normally introduced early September.\n\nThis looks like the right time to introduce back our conte ...",
+            "date_modified": "2015-08-27T00:00:00.000Z"
         },
         {
             "id": "https://blog.otohits.net/2015/05/25/happy-birthday/",
@@ -76,75 +91,60 @@
             "date_modified": "2015-08-13T00:00:00.000Z"
         },
         {
-            "id": "https://blog.otohits.net/2015/08/27/app-v3-update/",
-            "url": "https://blog.otohits.net/2015/08/27/app-v3-update/",
-            "title": "Newsletter - App v3 feedback",
-            "summary": "This is a copy of an old Othits newsletter\n\nFirst feedbacks for the V3 of the Application are pretty good. Despite few minor issues, it seems to run pretty well. Clicks and auto scroll on pages will be normally introduced early September.\n\nThis looks like the right time to introduce back our conte ...",
-            "date_modified": "2015-08-27T00:00:00.000Z"
+            "id": "https://blog.otohits.net/2015/02/01/newsletter/",
+            "url": "https://blog.otohits.net/2015/02/01/newsletter/",
+            "title": "Newsletter - Early 2015",
+            "summary": "This is a copy of an old Othits newsletter\n\nJust before Christmas, I was happy to announce that we were a bit more than 800 to surf constantly, generating more than 2.5 millions visits per day. I'm glad to say that these figures just doubled in 1 month! Surf sessions are between 1500 and 1600 at ...",
+            "date_modified": "2015-02-01T00:00:00.000Z"
         },
         {
-            "id": "https://blog.otohits.net/2016/05/23/app-v3-1/",
-            "url": "https://blog.otohits.net/2016/05/23/app-v3-1/",
-            "title": "Newsletter - App v3.1",
-            "summary": "This is a copy of an old Othits newsletter\n\nI'm pleased to announce you that a new version of the application is available.\n\nThis major update brings you 2 editions of the Application:\nDesktop: New viewer with the browser integrated in the Application (equivalent to the V2 look and feel).\nVPS: ...",
-            "date_modified": "2016-05-23T00:00:00.000Z"
+            "id": "https://blog.otohits.net/2014/12/20/newsletter/",
+            "url": "https://blog.otohits.net/2014/12/20/newsletter/",
+            "title": "Newsletter - Late 2014",
+            "summary": "This is a copy of an old Othits newsletter\n\nUser-agent override is available. You can find it on the details page of your websites. It is free for moment (no extra cost). This feature will remain in Beta until his efficiency will be considered as good.\n\nMaximum Timer has been raised to 600 sec ...",
+            "date_modified": "2014-12-20T00:00:00.000Z"
         },
         {
-            "id": "https://blog.otohits.net/2016/05/25/happy-birthday/",
-            "url": "https://blog.otohits.net/2016/05/25/happy-birthday/",
-            "title": "Newsletter - Happy Birthday Otohits!",
-            "summary": "This is a copy of an old Othits newsletter\n\nOtohits is 3 years old!\n\nIt is the perfect time to make a little retrospective on what happened.\n\nFirst, here are some nice figures compared to last year:\n57 000 members (+185%)\nAround 6 000 active surfers 24h/24 (+122%)\n74 000 links registered (+4 ...",
-            "date_modified": "2016-05-25T00:00:00.000Z"
+            "id": "https://blog.otohits.net/2014/11/02/app-v2-patch/",
+            "url": "https://blog.otohits.net/2014/11/02/app-v2-patch/",
+            "title": "Newsletter - Application v2 patch",
+            "summary": "This is a copy of an old Othits newsletter\n\nThis is a quick message to inform you that some members encountered issues with the new version of the application.\nEven though not everyone is impacted, I don't like the idea of leaving too much people behind.\n\nI decided to disable the new feature broug ...",
+            "date_modified": "2014-11-02T00:00:00.000Z"
         },
         {
-            "id": "https://blog.otohits.net/2016/08/28/linux-app/",
-            "url": "https://blog.otohits.net/2016/08/28/linux-app/",
-            "title": "Newsletter - Linux App",
-            "summary": "This is a copy of an old Othits newsletter\n\nA working version of the Linux application has been published few days ago. Like you maybe know, this is the result of an intensive work over the last months. The launch of the Linux App is a huge milestone for Otohits and I hope you will like it. We're ...",
-            "date_modified": "2016-08-28T00:00:00.000Z"
+            "id": "https://blog.otohits.net/2014/11/02/site-update/",
+            "url": "https://blog.otohits.net/2014/11/02/site-update/",
+            "title": "Newsletter - Website update",
+            "summary": "This is a copy of an old Othits newsletter\n\nThe update of the website and the application went well yesterday.\n\nFor information, here are the main changes:\nThe application now comes with an automatic updater. If a new version comes out, it will download it, install it and then relaunch the appli ...",
+            "date_modified": "2014-11-02T00:00:00.000Z"
         },
         {
-            "id": "https://blog.otohits.net/2016/11/30/otohits-api/",
-            "url": "https://blog.otohits.net/2016/11/30/otohits-api/",
-            "title": "Newsletter - Otohits Api",
-            "summary": "This is a copy of an old Othits newsletter\n\nWe are happy to push forward the autosurf world by providing you the Otohits API. Officially launched today, it is a brand new way to use and manage your links and data, but also a new tool that allows you to imagine, create and share new solutions for a ...",
-            "date_modified": "2016-11-30T00:00:00.000Z"
+            "id": "https://blog.otohits.net/2014/10/22/new-app/",
+            "url": "https://blog.otohits.net/2014/10/22/new-app/",
+            "title": "Newsletter - Application update",
+            "summary": "This is a copy of an old Othits newsletter\n\nA new version of the application is ready. It will bring a lot of new features:\nIt will now support random user-agent. The current version use a Chrome user-agent. The new version will use a different user-agent for each visit. If you don't want a rand ...",
+            "date_modified": "2014-10-22T00:00:00.000Z"
         },
         {
-            "id": "https://blog.otohits.net/2017/03/04/newsletter-high-quality/",
-            "url": "https://blog.otohits.net/2017/03/04/newsletter-high-quality/",
-            "title": "Newsletter - High quality mod",
-            "summary": "This is a copy of an old Othits newsletter\n\nA new feature will be released soon, it's called the \"High quality mod\".\nThe concept is quite simple: activating this feature will considerably reduce the visits from proxies/VPS/Servers and low quality computers and thus provide a more natural traffic f ...",
-            "date_modified": "2017-03-04T00:00:00.000Z"
+            "id": "https://blog.otohits.net/2014/10/05/contests/",
+            "url": "https://blog.otohits.net/2014/10/05/contests/",
+            "title": "Newsletter - Contest and updates",
+            "summary": "This is a copy of an old Othits newsletter\n\nThe contest of September is over. All Winners have been rewarded.\n\nAs a result of this contest, there are also some members that tried to cheat by creating multiple accounts. These false accounts now pollute the website.\nRules will be put in place to cle ...",
+            "date_modified": "2014-10-05T00:00:00.000Z"
         },
         {
-            "id": "https://blog.otohits.net/2017/05/25/newsletter-anniversary-4/",
-            "url": "https://blog.otohits.net/2017/05/25/newsletter-anniversary-4/",
-            "title": "Newsletter - Happy birthday Otohits!",
-            "summary": "This is a copy of an old Othits newsletter\n\nOtohits is 4 years old!\nLet's take a moment to see what happened during this year.\n\nWe welcomed 49 000 new members as well as providing almost 7 billion visits, that's more than the 3 previous years combined!\nTo all the members: a big thanks for all of y ...",
-            "date_modified": "2017-05-25T00:00:00.000Z"
+            "id": "https://blog.otohits.net/2015/09/09/old-news/",
+            "url": "https://blog.otohits.net/2015/09/09/old-news/",
+            "title": "Newsletter - Old 2014 news",
+            "summary": "This is a copy of an old Othits newsletter\n\n2014-21-09\n\nThe first version of the semi-automatic validation is now active. That's the first step that will lead to a true automatic validation for websites. It will require some time to improve his accuracy, but from now you will maybe notice a f ...",
+            "date_modified": "2015-09-09T00:00:00.000Z"
         },
         {
-            "id": "https://blog.otohits.net/2017/11/05/newsletter-definitive-edition/",
-            "url": "https://blog.otohits.net/2017/11/05/newsletter-definitive-edition/",
-            "title": "Newsletter - Definitive Edition App",
-            "summary": "This is a copy of an old Othits newsletter\n\nCoin miners are spreading over a lot of websites. We consider them to be clearly not adapted to autosurfs as they are mostly misused (taking up all the CPU without user consent). It will likely result in a bad user experience and as such we do not approv ...",
-            "date_modified": "2017-11-05T00:00:00.000Z"
-        },
-        {
-            "id": "https://blog.otohits.net/2020/03/09/first-news/",
-            "url": "https://blog.otohits.net/2020/03/09/first-news/",
-            "title": "Hello Otohits blog",
-            "summary": "Since the beginning of Otohits, newsletters were the only way of communicating with you. Although it was perfect few years ago, it became more and more complicated to use.\n\nFrom newsletters to blog posts\n\nThe last newsletter was sent more than 2 years ago (November 2017). It doesn't mean that wor ...",
-            "date_modified": "2020-03-09T00:00:00.000Z"
-        },
-        {
-            "id": "https://blog.otohits.net/2020/03/21/app-old-and-new/",
-            "url": "https://blog.otohits.net/2020/03/21/app-old-and-new/",
-            "title": "Applications: the old (v3), the current (definitive) and the next one",
-            "summary": "The v3 of the App was launched in August 2015 on Windows. The .Net Framework was not necessary anymore, but it was a simple window without the possibility to see the navigated websites.\n\nApp v3.1 for Windows\n\nQuickly after, the 3.1 came out to bring back this fe ...",
-            "image": "https://blog.otohits.net/img/blog/2020/v3.1_windows.jpg",
-            "date_modified": "2020-03-21T00:00:00.000Z"
+            "id": "https://blog.otohits.net/2013/12/01/_2013-archives/",
+            "url": "https://blog.otohits.net/2013/12/01/_2013-archives/",
+            "title": "Newsletter - Old 2013 news",
+            "summary": "This is a copy of an old Othits newsletter\n\n2013-12-01\n\nThis newsletter is just to remind you that 2 contests start today!\nThere are 10 Euros and 1.4 million points to win.\nGood luck and have a good surf.\n\n2013-11-23\n\nI'm pleased to announce you that a new feature has arrived on Otohits: the ...",
+            "date_modified": "2013-12-01T00:00:00.000Z"
         }
     ]
 }
