@@ -137,6 +137,14 @@
             "title": "Hello Otohits blog",
             "summary": "Since the beginning of Otohits, newsletters were the only way of communicating with you. Although it was perfect few years ago, it became more and more complicated to use.\n\nFrom newsletters to blog posts\n\nThe last newsletter was sent more than 2 years ago (November 2017). It doesn't mean that wor ...",
             "date_modified": "2020-03-09T00:00:00.000Z"
+        },
+        {
+            "id": "https://blog.otohits.net/2020/03/21/app-old-and-new/",
+            "url": "https://blog.otohits.net/2020/03/21/app-old-and-new/",
+            "title": "Applications: the old (v3), the current (definitive) and the next one",
+            "summary": "The v3 of the App was launched in August 2015 on Windows. The .Net Framework was not necessary anymore, but it was a simple window without the possibility to see the navigated websites.\n\nApp v3.1 for Windows\n\nQuickly after, the 3.1 came out to bring back this fe ...",
+            "image": "https://blog.otohits.net/img/blog/2020/v3.1_windows.jpg",
+            "date_modified": "2020-03-21T00:00:00.000Z"
         }
     ]
 }
