@@ -28,6 +28,7 @@ module.exports = {
             rss: true,
             atom: true,
             json: true,
+            sort: entries => entries.reverse(),
         },
         footer: {
             contact: [{
@@ -41,7 +42,7 @@ module.exports = {
             '@vuepress/google-analytics',
             {
                 'ga': 'UA-141036540-2'
-            }
+            },
         ]
     ]
 };
