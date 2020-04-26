@@ -6,6 +6,13 @@
     "description": "News and articles about Otohits.net website. Stay up to date with the new features for your surf.",
     "items": [
         {
+            "id": "https://blog.otohits.net/2020/04/26/application-v5/",
+            "url": "https://blog.otohits.net/2020/04/26/application-v5/",
+            "title": "Applications - v5 is out",
+            "summary": "Everything is explained in the previous article. As a short explanation, old Apps were really hard to maintain and to add features in. The v5 has been designed to be flexible and easier to upgrade.\n\nHighlights\nThe v5 is now available as a console app for both ...",
+            "date_modified": "2020-04-26T00:00:00.000Z"
+        },
+        {
             "id": "https://blog.otohits.net/2020/03/21/app-old-and-new/",
             "url": "https://blog.otohits.net/2020/03/21/app-old-and-new/",
             "title": "Applications: the old (v3), the current (definitive) and the next one",
@@ -77,18 +84,18 @@
             "date_modified": "2015-08-27T00:00:00.000Z"
         },
         {
-            "id": "https://blog.otohits.net/2015/05/25/happy-birthday/",
-            "url": "https://blog.otohits.net/2015/05/25/happy-birthday/",
-            "title": "Newsletter - Happy Birthday Otohits!",
-            "summary": "This is a copy of an old Othits newsletter\n\nOtohits is 2 years old !\nIt is the perfect time to make a little retrospective on what happened.\n\nFirst, here are some nice figures compared to last year:\n20 000 members (+571 %)\nAround 2700 active surfers 24h/24 (+2700 %)\n50 000 links registered ( ...",
-            "date_modified": "2015-05-25T00:00:00.000Z"
-        },
-        {
             "id": "https://blog.otohits.net/2015/08/13/app-v3/",
             "url": "https://blog.otohits.net/2015/08/13/app-v3/",
             "title": "Newsletter - App v3 update",
             "summary": "This is a copy of an old Othits newsletter\n\nVersion 3 of the application is out !\n\n2 main objectives have been followed during his development:\nImprove the overall efficiency of the autosurf itself, making sure as much as possible that visits are correctly counted.\nMake it as transparent as po ...",
             "date_modified": "2015-08-13T00:00:00.000Z"
+        },
+        {
+            "id": "https://blog.otohits.net/2015/05/25/happy-birthday/",
+            "url": "https://blog.otohits.net/2015/05/25/happy-birthday/",
+            "title": "Newsletter - Happy Birthday Otohits!",
+            "summary": "This is a copy of an old Othits newsletter\n\nOtohits is 2 years old !\nIt is the perfect time to make a little retrospective on what happened.\n\nFirst, here are some nice figures compared to last year:\n20 000 members (+571 %)\nAround 2700 active surfers 24h/24 (+2700 %)\n50 000 links registered ( ...",
+            "date_modified": "2015-05-25T00:00:00.000Z"
         },
         {
             "id": "https://blog.otohits.net/2015/02/01/newsletter/",
@@ -138,13 +145,6 @@
             "title": "Newsletter - Old 2014 news",
             "summary": "This is a copy of an old Othits newsletter\n\n2014-21-09\n\nThe first version of the semi-automatic validation is now active. That's the first step that will lead to a true automatic validation for websites. It will require some time to improve his accuracy, but from now you will maybe notice a f ...",
             "date_modified": "2015-09-09T00:00:00.000Z"
-        },
-        {
-            "id": "https://blog.otohits.net/2013/12/01/_2013-archives/",
-            "url": "https://blog.otohits.net/2013/12/01/_2013-archives/",
-            "title": "Newsletter - Old 2013 news",
-            "summary": "This is a copy of an old Othits newsletter\n\n2013-12-01\n\nThis newsletter is just to remind you that 2 contests start today!\nThere are 10 Euros and 1.4 million points to win.\nGood luck and have a good surf.\n\n2013-11-23\n\nI'm pleased to announce you that a new feature has arrived on Otohits: the ...",
-            "date_modified": "2013-12-01T00:00:00.000Z"
         }
     ]
 }

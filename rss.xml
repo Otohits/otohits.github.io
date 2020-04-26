@@ -4,10 +4,20 @@
         <title>Otohits blog</title>
         <link>https://blog.otohits.net</link>
         <description>News and articles about Otohits.net website. Stay up to date with the new features for your surf.</description>
-        <lastBuildDate>Sun, 22 Mar 2020 00:59:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Apr 2020 23:42:44 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://blog.otohits.net/feed.atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Applications - v5 is out]]></title>
+            <link>https://blog.otohits.net/2020/04/26/application-v5/</link>
+            <guid>https://blog.otohits.net/2020/04/26/application-v5/</guid>
+            <pubDate>Sun, 26 Apr 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Everything is explained in the previous article. As a short explanation, old Apps were really hard to maintain and to add features in. The v5 has been designed to be flexible and easier to upgrade.
+
+Highlights
+The v5 is now available as a console app for both ...]]></description>
+        </item>
         <item>
             <title><![CDATA[Applications: the old (v3), the current (definitive) and the next one]]></title>
             <link>https://blog.otohits.net/2020/03/21/app-old-and-new/</link>
@@ -123,6 +133,19 @@ First feedbacks for the V3 of the Application are pretty good. Despite few minor
 This looks like the right time to introduce back our conte ...]]></description>
         </item>
         <item>
+            <title><![CDATA[Newsletter - App v3 update]]></title>
+            <link>https://blog.otohits.net/2015/08/13/app-v3/</link>
+            <guid>https://blog.otohits.net/2015/08/13/app-v3/</guid>
+            <pubDate>Thu, 13 Aug 2015 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is a copy of an old Othits newsletter
+
+Version 3 of the application is out !
+
+2 main objectives have been followed during his development:
+Improve the overall efficiency of the autosurf itself, making sure as much as possible that visits are correctly counted.
+Make it as transparent as po ...]]></description>
+        </item>
+        <item>
             <title><![CDATA[Newsletter - Happy Birthday Otohits!]]></title>
             <link>https://blog.otohits.net/2015/05/25/happy-birthday/</link>
             <guid>https://blog.otohits.net/2015/05/25/happy-birthday/</guid>
@@ -136,19 +159,6 @@ First, here are some nice figures compared to last year:
 20 000 members (+571 %)
 Around 2700 active surfers 24h/24 (+2700 %)
 50 000 links registered ( ...]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Newsletter - App v3 update]]></title>
-            <link>https://blog.otohits.net/2015/08/13/app-v3/</link>
-            <guid>https://blog.otohits.net/2015/08/13/app-v3/</guid>
-            <pubDate>Thu, 13 Aug 2015 00:00:00 GMT</pubDate>
-            <description><![CDATA[This is a copy of an old Othits newsletter
-
-Version 3 of the application is out !
-
-2 main objectives have been followed during his development:
-Improve the overall efficiency of the autosurf itself, making sure as much as possible that visits are correctly counted.
-Make it as transparent as po ...]]></description>
         </item>
         <item>
             <title><![CDATA[Newsletter - Early 2015]]></title>
@@ -226,23 +236,6 @@ Rules will be put in place to cle ...]]></description>
 2014-21-09
 
 The first version of the semi-automatic validation is now active. That's the first step that will lead to a true automatic validation for websites. It will require some time to improve his accuracy, but from now you will maybe notice a f ...]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Newsletter - Old 2013 news]]></title>
-            <link>https://blog.otohits.net/2013/12/01/_2013-archives/</link>
-            <guid>https://blog.otohits.net/2013/12/01/_2013-archives/</guid>
-            <pubDate>Sun, 01 Dec 2013 00:00:00 GMT</pubDate>
-            <description><![CDATA[This is a copy of an old Othits newsletter
-
-2013-12-01
-
-This newsletter is just to remind you that 2 contests start today!
-There are 10 Euros and 1.4 million points to win.
-Good luck and have a good surf.
-
-2013-11-23
-
-I'm pleased to announce you that a new feature has arrived on Otohits: the ...]]></description>
         </item>
     </channel>
 </rss>
