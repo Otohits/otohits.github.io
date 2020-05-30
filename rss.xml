@@ -4,10 +4,21 @@
         <title>Otohits blog</title>
         <link>https://blog.otohits.net</link>
         <description>News and articles about Otohits.net website. Stay up to date with the new features for your surf.</description>
-        <lastBuildDate>Sun, 26 Apr 2020 23:42:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 May 2020 15:18:27 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://blog.otohits.net/feed.atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New feature: Page reload]]></title>
+            <link>https://blog.otohits.net/2020/05/30/new-feature-reload-page/</link>
+            <guid>https://blog.otohits.net/2020/05/30/new-feature-reload-page/</guid>
+            <pubDate>Sat, 30 May 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Page reload is the first new feature that has been implemented in the new v5 application. When activated on your links, it will simply "reload" the current page.
+
+This feature is marked as experimental for the moment due to the fact that there are still so ...]]></description>
+            <enclosure url="https://blog.otohits.net/img/blog/2020/reload/your-link-advanced-options.png">
+            </enclosure>
+        </item>
         <item>
             <title><![CDATA[Applications - v5 is out]]></title>
             <link>https://blog.otohits.net/2020/04/26/application-v5/</link>
@@ -225,17 +236,6 @@ The contest of September is over. All Winners have been rewarded.
 
 As a result of this contest, there are also some members that tried to cheat by creating multiple accounts. These false accounts now pollute the website.
 Rules will be put in place to cle ...]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Newsletter - Old 2014 news]]></title>
-            <link>https://blog.otohits.net/2015/09/09/old-news/</link>
-            <guid>https://blog.otohits.net/2015/09/09/old-news/</guid>
-            <pubDate>Wed, 09 Sep 2015 00:00:00 GMT</pubDate>
-            <description><![CDATA[This is a copy of an old Othits newsletter
-
-2014-21-09
-
-The first version of the semi-automatic validation is now active. That's the first step that will lead to a true automatic validation for websites. It will require some time to improve his accuracy, but from now you will maybe notice a f ...]]></description>
         </item>
     </channel>
 </rss>

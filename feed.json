@@ -6,6 +6,14 @@
     "description": "News and articles about Otohits.net website. Stay up to date with the new features for your surf.",
     "items": [
         {
+            "id": "https://blog.otohits.net/2020/05/30/new-feature-reload-page/",
+            "url": "https://blog.otohits.net/2020/05/30/new-feature-reload-page/",
+            "title": "New feature: Page reload",
+            "summary": "Page reload is the first new feature that has been implemented in the new v5 application. When activated on your links, it will simply \"reload\" the current page.\n\nThis feature is marked as experimental for the moment due to the fact that there are still so ...",
+            "image": "https://blog.otohits.net/img/blog/2020/reload/your-link-advanced-options.png",
+            "date_modified": "2020-05-30T00:00:00.000Z"
+        },
+        {
             "id": "https://blog.otohits.net/2020/04/26/application-v5/",
             "url": "https://blog.otohits.net/2020/04/26/application-v5/",
             "title": "Applications - v5 is out",
@@ -138,13 +146,6 @@
             "title": "Newsletter - Contest and updates",
             "summary": "This is a copy of an old Othits newsletter\n\nThe contest of September is over. All Winners have been rewarded.\n\nAs a result of this contest, there are also some members that tried to cheat by creating multiple accounts. These false accounts now pollute the website.\nRules will be put in place to cle ...",
             "date_modified": "2014-10-05T00:00:00.000Z"
-        },
-        {
-            "id": "https://blog.otohits.net/2015/09/09/old-news/",
-            "url": "https://blog.otohits.net/2015/09/09/old-news/",
-            "title": "Newsletter - Old 2014 news",
-            "summary": "This is a copy of an old Othits newsletter\n\n2014-21-09\n\nThe first version of the semi-automatic validation is now active. That's the first step that will lead to a true automatic validation for websites. It will require some time to improve his accuracy, but from now you will maybe notice a f ...",
-            "date_modified": "2015-09-09T00:00:00.000Z"
         }
     ]
 }
