@@ -4,10 +4,20 @@
         <title>Otohits blog</title>
         <link>https://blog.otohits.net</link>
         <description>News and articles about Otohits.net website. Stay up to date with the new features for your surf.</description>
-        <lastBuildDate>Sat, 30 May 2020 15:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2020 23:50:03 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://blog.otohits.net/feed.atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[v5 App: official release]]></title>
+            <link>https://blog.otohits.net/2020/06/27/v5-app-update/</link>
+            <guid>https://blog.otohits.net/2020/06/27/v5-app-update/</guid>
+            <pubDate>Sat, 27 Jun 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Following the launch of the v5 App 2 months ago, it is now the most used version of the App.
+I want to thank everyone, whether you just used it or helped us to make it better as you were encountering abnormal behavior.
+
+Over these last 2 months, 32 updates have be ...]]></description>
+        </item>
         <item>
             <title><![CDATA[New feature: Page reload]]></title>
             <link>https://blog.otohits.net/2020/05/30/new-feature-reload-page/</link>
@@ -224,18 +234,6 @@ The application now comes with an automatic updater. If a new version comes out,
 
 A new version of the application is ready. It will bring a lot of new features:
 It will now support random user-agent. The current version use a Chrome user-agent. The new version will use a different user-agent for each visit. If you don't want a rand ...]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Newsletter - Contest and updates]]></title>
-            <link>https://blog.otohits.net/2014/10/05/contests/</link>
-            <guid>https://blog.otohits.net/2014/10/05/contests/</guid>
-            <pubDate>Sun, 05 Oct 2014 00:00:00 GMT</pubDate>
-            <description><![CDATA[This is a copy of an old Othits newsletter
-
-The contest of September is over. All Winners have been rewarded.
-
-As a result of this contest, there are also some members that tried to cheat by creating multiple accounts. These false accounts now pollute the website.
-Rules will be put in place to cle ...]]></description>
         </item>
     </channel>
 </rss>

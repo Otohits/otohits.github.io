@@ -6,6 +6,13 @@
     "description": "News and articles about Otohits.net website. Stay up to date with the new features for your surf.",
     "items": [
         {
+            "id": "https://blog.otohits.net/2020/06/27/v5-app-update/",
+            "url": "https://blog.otohits.net/2020/06/27/v5-app-update/",
+            "title": "v5 App: official release",
+            "summary": "Following the launch of the v5 App 2 months ago, it is now the most used version of the App.\nI want to thank everyone, whether you just used it or helped us to make it better as you were encountering abnormal behavior.\n\nOver these last 2 months, 32 updates have be ...",
+            "date_modified": "2020-06-27T00:00:00.000Z"
+        },
+        {
             "id": "https://blog.otohits.net/2020/05/30/new-feature-reload-page/",
             "url": "https://blog.otohits.net/2020/05/30/new-feature-reload-page/",
             "title": "New feature: Page reload",
@@ -139,13 +146,6 @@
             "title": "Newsletter - Application update",
             "summary": "This is a copy of an old Othits newsletter\n\nA new version of the application is ready. It will bring a lot of new features:\nIt will now support random user-agent. The current version use a Chrome user-agent. The new version will use a different user-agent for each visit. If you don't want a rand ...",
             "date_modified": "2014-10-22T00:00:00.000Z"
-        },
-        {
-            "id": "https://blog.otohits.net/2014/10/05/contests/",
-            "url": "https://blog.otohits.net/2014/10/05/contests/",
-            "title": "Newsletter - Contest and updates",
-            "summary": "This is a copy of an old Othits newsletter\n\nThe contest of September is over. All Winners have been rewarded.\n\nAs a result of this contest, there are also some members that tried to cheat by creating multiple accounts. These false accounts now pollute the website.\nRules will be put in place to cle ...",
-            "date_modified": "2014-10-05T00:00:00.000Z"
         }
     ]
 }
