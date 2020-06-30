@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.otohits.net</id>
     <title>Otohits blog</title>
-    <updated>2020-06-26T23:50:03.214Z</updated>
+    <updated>2020-06-30T01:14:53.092Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://blog.otohits.net"/>
     <link rel="self" href="https://blog.otohits.net/feed.atom"/>
     <subtitle>News and articles about Otohits.net website. Stay up to date with the new features for your surf.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[v5 update - Windows 32 Bits support and User-Agent update]]></title>
+        <id>https://blog.otohits.net/2020/06/30/v5-version-5055-32-bits-platform/</id>
+        <link href="https://blog.otohits.net/2020/06/30/v5-version-5055-32-bits-platform/">
+        </link>
+        <updated>2020-06-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Following the last post of the v5 release as well as the removal of the v3/Definitive edition of the App page, some of you contacted us regarding the lack of a 32 Bits version for the Windows App.
+
+We didn't think there was st ...]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v5 App: official release]]></title>
         <id>https://blog.otohits.net/2020/06/27/v5-app-update/</id>
@@ -238,16 +248,5 @@ The update of the website and the application went well yesterday.
 
 For information, here are the main changes:
 The application now comes with an automatic updater. If a new version comes out, it will download it, install it and then relaunch the appli ...]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter - Application update]]></title>
-        <id>https://blog.otohits.net/2014/10/22/new-app/</id>
-        <link href="https://blog.otohits.net/2014/10/22/new-app/">
-        </link>
-        <updated>2014-10-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is a copy of an old Othits newsletter
-
-A new version of the application is ready. It will bring a lot of new features:
-It will now support random user-agent. The current version use a Chrome user-agent. The new version will use a different user-agent for each visit. If you don't want a rand ...]]></summary>
     </entry>
 </feed>

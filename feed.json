@@ -6,6 +6,13 @@
     "description": "News and articles about Otohits.net website. Stay up to date with the new features for your surf.",
     "items": [
         {
+            "id": "https://blog.otohits.net/2020/06/30/v5-version-5055-32-bits-platform/",
+            "url": "https://blog.otohits.net/2020/06/30/v5-version-5055-32-bits-platform/",
+            "title": "v5 update - Windows 32 Bits support and User-Agent update",
+            "summary": "Following the last post of the v5 release as well as the removal of the v3/Definitive edition of the App page, some of you contacted us regarding the lack of a 32 Bits version for the Windows App.\n\nWe didn't think there was st ...",
+            "date_modified": "2020-06-30T00:00:00.000Z"
+        },
+        {
             "id": "https://blog.otohits.net/2020/06/27/v5-app-update/",
             "url": "https://blog.otohits.net/2020/06/27/v5-app-update/",
             "title": "v5 App: official release",
@@ -139,13 +146,6 @@
             "title": "Newsletter - Website update",
             "summary": "This is a copy of an old Othits newsletter\n\nThe update of the website and the application went well yesterday.\n\nFor information, here are the main changes:\nThe application now comes with an automatic updater. If a new version comes out, it will download it, install it and then relaunch the appli ...",
             "date_modified": "2014-11-02T00:00:00.000Z"
-        },
-        {
-            "id": "https://blog.otohits.net/2014/10/22/new-app/",
-            "url": "https://blog.otohits.net/2014/10/22/new-app/",
-            "title": "Newsletter - Application update",
-            "summary": "This is a copy of an old Othits newsletter\n\nA new version of the application is ready. It will bring a lot of new features:\nIt will now support random user-agent. The current version use a Chrome user-agent. The new version will use a different user-agent for each visit. If you don't want a rand ...",
-            "date_modified": "2014-10-22T00:00:00.000Z"
         }
     ]
 }
