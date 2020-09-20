@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.otohits.net</id>
     <title>Otohits blog</title>
-    <updated>2020-08-30T20:40:59.990Z</updated>
+    <updated>2020-09-20T20:03:16.009Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://blog.otohits.net"/>
     <link rel="self" href="https://blog.otohits.net/feed.atom"/>
     <subtitle>News and articles about Otohits.net website. Stay up to date with the new features for your surf.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[App v5 update: refined locales, points report and new parameter]]></title>
+        <id>https://blog.otohits.net/2020/09/20/app-v5-update-5063/</id>
+        <link href="https://blog.otohits.net/2020/09/20/app-v5-update-5063/">
+        </link>
+        <updated>2020-09-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Applicable to v5063 and upper
+
+Locales now match the country of the App
+
+App v5 came with a basic locale (language) support. It was taken from the current operating system settings and in a lot of scenarios would have still resulted in an en-US locale.
+
+With the recent upgrade of [geotargetin ...]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Geotargeting udpate: a complete redesign]]></title>
         <id>https://blog.otohits.net/2020/08/31/geotargeting-update-complete-redesign/</id>
@@ -233,18 +247,5 @@ Just before Christmas, I was happy to announce that we were a bit more than 800 
 User-agent override is available. You can find it on the details page of your websites. It is free for moment (no extra cost). This feature will remain in Beta until his efficiency will be considered as good.
 
 Maximum Timer has been raised to 600 sec ...]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter - Application v2 patch]]></title>
-        <id>https://blog.otohits.net/2014/11/02/app-v2-patch/</id>
-        <link href="https://blog.otohits.net/2014/11/02/app-v2-patch/">
-        </link>
-        <updated>2014-11-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is a copy of an old Othits newsletter
-
-This is a quick message to inform you that some members encountered issues with the new version of the application.
-Even though not everyone is impacted, I don't like the idea of leaving too much people behind.
-
-I decided to disable the new feature broug ...]]></summary>
     </entry>
 </feed>

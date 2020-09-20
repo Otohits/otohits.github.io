@@ -6,6 +6,13 @@
     "description": "News and articles about Otohits.net website. Stay up to date with the new features for your surf.",
     "items": [
         {
+            "id": "https://blog.otohits.net/2020/09/20/app-v5-update-5063/",
+            "url": "https://blog.otohits.net/2020/09/20/app-v5-update-5063/",
+            "title": "App v5 update: refined locales, points report and new parameter",
+            "summary": "Applicable to v5063 and upper\n\nLocales now match the country of the App\n\nApp v5 came with a basic locale (language) support. It was taken from the current operating system settings and in a lot of scenarios would have still resulted in an en-US locale.\n\nWith the recent upgrade of [geotargetin ...",
+            "date_modified": "2020-09-20T00:00:00.000Z"
+        },
+        {
             "id": "https://blog.otohits.net/2020/08/31/geotargeting-update-complete-redesign/",
             "url": "https://blog.otohits.net/2020/08/31/geotargeting-update-complete-redesign/",
             "title": "Geotargeting udpate: a complete redesign",
@@ -140,13 +147,6 @@
             "title": "Newsletter - Late 2014",
             "summary": "This is a copy of an old Othits newsletter\n\nUser-agent override is available. You can find it on the details page of your websites. It is free for moment (no extra cost). This feature will remain in Beta until his efficiency will be considered as good.\n\nMaximum Timer has been raised to 600 sec ...",
             "date_modified": "2014-12-20T00:00:00.000Z"
-        },
-        {
-            "id": "https://blog.otohits.net/2014/11/02/app-v2-patch/",
-            "url": "https://blog.otohits.net/2014/11/02/app-v2-patch/",
-            "title": "Newsletter - Application v2 patch",
-            "summary": "This is a copy of an old Othits newsletter\n\nThis is a quick message to inform you that some members encountered issues with the new version of the application.\nEven though not everyone is impacted, I don't like the idea of leaving too much people behind.\n\nI decided to disable the new feature broug ...",
-            "date_modified": "2014-11-02T00:00:00.000Z"
         }
     ]
 }
