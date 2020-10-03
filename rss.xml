@@ -4,10 +4,17 @@
         <title>Otohits blog</title>
         <link>https://blog.otohits.net</link>
         <description>News and articles about Otohits.net website. Stay up to date with the new features for your surf.</description>
-        <lastBuildDate>Sun, 20 Sep 2020 20:03:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Oct 2020 16:37:55 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://blog.otohits.net/feed.atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Efficiency system update]]></title>
+            <link>https://blog.otohits.net/2020/10/03/efficiency-system-update/</link>
+            <guid>https://blog.otohits.net/2020/10/03/efficiency-system-update/</guid>
+            <pubDate>Sat, 03 Oct 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[When Otohits was created, the ratio was 1:1, meaning that for each second you visit a website, you earned 1 point. To keep a balance on the platform and avoid inflation (points value decrease), some basic modifiers were introduced to make this ratio varies. The chosen name to express this ratio ...]]></description>
+        </item>
         <item>
             <title><![CDATA[App v5 update: refined locales, points report and new parameter]]></title>
             <link>https://blog.otohits.net/2020/09/20/app-v5-update-5063/</link>
@@ -223,17 +230,6 @@ Around 2700 active surfers 24h/24 (+2700 %)
             <description><![CDATA[This is a copy of an old Othits newsletter
 
 Just before Christmas, I was happy to announce that we were a bit more than 800 to surf constantly, generating more than 2.5 millions visits per day. I'm glad to say that these figures just doubled in 1 month! Surf sessions are between 1500 and 1600 at ...]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Newsletter - Late 2014]]></title>
-            <link>https://blog.otohits.net/2014/12/20/newsletter/</link>
-            <guid>https://blog.otohits.net/2014/12/20/newsletter/</guid>
-            <pubDate>Sat, 20 Dec 2014 00:00:00 GMT</pubDate>
-            <description><![CDATA[This is a copy of an old Othits newsletter
-
-User-agent override is available. You can find it on the details page of your websites. It is free for moment (no extra cost). This feature will remain in Beta until his efficiency will be considered as good.
-
-Maximum Timer has been raised to 600 sec ...]]></description>
         </item>
     </channel>
 </rss>

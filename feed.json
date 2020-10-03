@@ -6,6 +6,13 @@
     "description": "News and articles about Otohits.net website. Stay up to date with the new features for your surf.",
     "items": [
         {
+            "id": "https://blog.otohits.net/2020/10/03/efficiency-system-update/",
+            "url": "https://blog.otohits.net/2020/10/03/efficiency-system-update/",
+            "title": "Efficiency system update",
+            "summary": "When Otohits was created, the ratio was 1:1, meaning that for each second you visit a website, you earned 1 point. To keep a balance on the platform and avoid inflation (points value decrease), some basic modifiers were introduced to make this ratio varies. The chosen name to express this ratio ...",
+            "date_modified": "2020-10-03T00:00:00.000Z"
+        },
+        {
             "id": "https://blog.otohits.net/2020/09/20/app-v5-update-5063/",
             "url": "https://blog.otohits.net/2020/09/20/app-v5-update-5063/",
             "title": "App v5 update: refined locales, points report and new parameter",
@@ -140,13 +147,6 @@
             "title": "Newsletter - Early 2015",
             "summary": "This is a copy of an old Othits newsletter\n\nJust before Christmas, I was happy to announce that we were a bit more than 800 to surf constantly, generating more than 2.5 millions visits per day. I'm glad to say that these figures just doubled in 1 month! Surf sessions are between 1500 and 1600 at ...",
             "date_modified": "2015-02-01T00:00:00.000Z"
-        },
-        {
-            "id": "https://blog.otohits.net/2014/12/20/newsletter/",
-            "url": "https://blog.otohits.net/2014/12/20/newsletter/",
-            "title": "Newsletter - Late 2014",
-            "summary": "This is a copy of an old Othits newsletter\n\nUser-agent override is available. You can find it on the details page of your websites. It is free for moment (no extra cost). This feature will remain in Beta until his efficiency will be considered as good.\n\nMaximum Timer has been raised to 600 sec ...",
-            "date_modified": "2014-12-20T00:00:00.000Z"
         }
     ]
 }
