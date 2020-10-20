@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.otohits.net</id>
     <title>Otohits blog</title>
-    <updated>2020-10-03T16:37:55.687Z</updated>
+    <updated>2020-10-20T21:44:34.382Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://blog.otohits.net"/>
     <link rel="self" href="https://blog.otohits.net/feed.atom"/>
     <subtitle>News and articles about Otohits.net website. Stay up to date with the new features for your surf.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[App update, Docker App official support, indirect MacOs availability]]></title>
+        <id>https://blog.otohits.net/2020/10/21/docker-support/</id>
+        <link href="https://blog.otohits.net/2020/10/21/docker-support/">
+        </link>
+        <updated>2020-10-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here are the main changes introduced between versions 5063 and 5066.
+
+Fixed bugs
+
+Desktop App only: on some occasion, the application could hang and take at most 5 minutes to continue surfing. It will now continue as fast as usual (30 seconds max if the viewer does not respond).
+Desktop Ap ...]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Efficiency system update]]></title>
         <id>https://blog.otohits.net/2020/10/03/efficiency-system-update/</id>
@@ -233,15 +246,5 @@ First, here are some nice figures compared to last year:
 20 000 members (+571 %)
 Around 2700 active surfers 24h/24 (+2700 %)
 50 000 links registered ( ...]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter - Early 2015]]></title>
-        <id>https://blog.otohits.net/2015/02/01/newsletter/</id>
-        <link href="https://blog.otohits.net/2015/02/01/newsletter/">
-        </link>
-        <updated>2015-02-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is a copy of an old Othits newsletter
-
-Just before Christmas, I was happy to announce that we were a bit more than 800 to surf constantly, generating more than 2.5 millions visits per day. I'm glad to say that these figures just doubled in 1 month! Surf sessions are between 1500 and 1600 at ...]]></summary>
     </entry>
 </feed>

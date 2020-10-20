@@ -6,6 +6,13 @@
     "description": "News and articles about Otohits.net website. Stay up to date with the new features for your surf.",
     "items": [
         {
+            "id": "https://blog.otohits.net/2020/10/21/docker-support/",
+            "url": "https://blog.otohits.net/2020/10/21/docker-support/",
+            "title": "App update, Docker App official support, indirect MacOs availability",
+            "summary": "Here are the main changes introduced between versions 5063 and 5066.\n\nFixed bugs\n\nDesktop App only: on some occasion, the application could hang and take at most 5 minutes to continue surfing. It will now continue as fast as usual (30 seconds max if the viewer does not respond).\nDesktop Ap ...",
+            "date_modified": "2020-10-21T00:00:00.000Z"
+        },
+        {
             "id": "https://blog.otohits.net/2020/10/03/efficiency-system-update/",
             "url": "https://blog.otohits.net/2020/10/03/efficiency-system-update/",
             "title": "Efficiency system update",
@@ -140,13 +147,6 @@
             "title": "Newsletter - Happy Birthday Otohits!",
             "summary": "This is a copy of an old Othits newsletter\n\nOtohits is 2 years old !\nIt is the perfect time to make a little retrospective on what happened.\n\nFirst, here are some nice figures compared to last year:\n20 000 members (+571 %)\nAround 2700 active surfers 24h/24 (+2700 %)\n50 000 links registered ( ...",
             "date_modified": "2015-05-25T00:00:00.000Z"
-        },
-        {
-            "id": "https://blog.otohits.net/2015/02/01/newsletter/",
-            "url": "https://blog.otohits.net/2015/02/01/newsletter/",
-            "title": "Newsletter - Early 2015",
-            "summary": "This is a copy of an old Othits newsletter\n\nJust before Christmas, I was happy to announce that we were a bit more than 800 to surf constantly, generating more than 2.5 millions visits per day. I'm glad to say that these figures just doubled in 1 month! Surf sessions are between 1500 and 1600 at ...",
-            "date_modified": "2015-02-01T00:00:00.000Z"
         }
     ]
 }
