@@ -4,15 +4,37 @@
         <title>Otohits blog</title>
         <link>https://blog.otohits.net</link>
         <description>News and articles about Otohits.net website. Stay up to date with the new features for your surf.</description>
-        <lastBuildDate>Sat, 26 Aug 2023 21:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Aug 2023 22:17:30 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://blog.otohits.net/feed.atom" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[How to override the referer]]></title>
+            <link>https://blog.otohits.net/2023/08/12/how-to-override-the-referer/</link>
+            <guid>https://blog.otohits.net/2023/08/12/how-to-override-the-referer/</guid>
+            <pubDate>Sat, 12 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[The referrer identifies the webpage that the previous request comes from. If you need more explanations on this concept, you can referer to the guide about hiding the referer.
+
+When you override the referer, you make the page beleive that the visit comes ...]]></description>
+            <enclosure url="https://blog.otohits.net/img/guides/config_btn.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[How to hide the referer]]></title>
+            <link>https://blog.otohits.net/2023/08/11/how-to-hide-the-referer/</link>
+            <guid>https://blog.otohits.net/2023/08/11/how-to-hide-the-referer/</guid>
+            <pubDate>Fri, 11 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[The referrer identifies the webpage that the previous request come from. As an example, if I go to google to look for something, then I click on the result http://mysite.com, mysite.com will be able to know that I come from google.
+
+You can test it yourself: go to [https://anonymiz.com/myrefer ...]]></description>
+            <enclosure url="https://blog.otohits.net/img/guides/hide_ref_1.png">
+            </enclosure>
+        </item>
+        <item>
             <title><![CDATA[How to use clicks]]></title>
-            <link>https://blog.otohits.net/2023/08/26/how-to-use-clicks/</link>
-            <guid>https://blog.otohits.net/2023/08/26/how-to-use-clicks/</guid>
-            <pubDate>Sat, 26 Aug 2023 00:00:00 GMT</pubDate>
+            <link>https://blog.otohits.net/2023/08/10/how-to-use-clicks/</link>
+            <guid>https://blog.otohits.net/2023/08/10/how-to-use-clicks/</guid>
+            <pubDate>Thu, 10 Aug 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Clicks is one of the most powerful features available on Otohits. It helps you set up a "real" navigation on your website.
 
 To use it correctly, there are few things to know that we will talk about in this article.
@@ -164,6 +186,45 @@ A new feature will be released soon, it's called the "High quality mod".
 The concept is quite simple: activating this feature will considerably reduce the visits from proxies/VPS/Servers and low quality computers and thus provide a more natural traffic f ...]]></description>
         </item>
         <item>
+            <title><![CDATA[Newsletter - Application update]]></title>
+            <link>https://blog.otohits.net/2014/10/22/new-app/</link>
+            <guid>https://blog.otohits.net/2014/10/22/new-app/</guid>
+            <pubDate>Wed, 22 Oct 2014 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is a copy of an old Othits newsletter
+
+A new version of the application is ready. It will bring a lot of new features:
+It will now support random user-agent. The current version use a Chrome user-agent. The new version will use a different user-agent for each visit. If you don't want a rand ...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Newsletter - Contest and updates]]></title>
+            <link>https://blog.otohits.net/2014/10/05/contests/</link>
+            <guid>https://blog.otohits.net/2014/10/05/contests/</guid>
+            <pubDate>Sun, 05 Oct 2014 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is a copy of an old Othits newsletter
+
+The contest of September is over. All Winners have been rewarded.
+
+As a result of this contest, there are also some members that tried to cheat by creating multiple accounts. These false accounts now pollute the website.
+Rules will be put in place to cle ...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Newsletter - Old 2013 news]]></title>
+            <link>https://blog.otohits.net/2013/12/01/_2013-archives/</link>
+            <guid>https://blog.otohits.net/2013/12/01/_2013-archives/</guid>
+            <pubDate>Sun, 01 Dec 2013 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is a copy of an old Othits newsletter
+
+2013-12-01
+
+This newsletter is just to remind you that 2 contests start today!
+There are 10 Euros and 1.4 million points to win.
+Good luck and have a good surf.
+
+2013-11-23
+
+I'm pleased to announce you that a new feature has arrived on Otohits: the ...]]></description>
+        </item>
+        <item>
             <title><![CDATA[Newsletter - Otohits Api]]></title>
             <link>https://blog.otohits.net/2016/11/30/otohits-api/</link>
             <guid>https://blog.otohits.net/2016/11/30/otohits-api/</guid>
@@ -171,68 +232,6 @@ The concept is quite simple: activating this feature will considerably reduce th
             <description><![CDATA[This is a copy of an old Othits newsletter
 
 We are happy to push forward the autosurf world by providing you the Otohits API. Officially launched today, it is a brand new way to use and manage your links and data, but also a new tool that allows you to imagine, create and share new solutions for a ...]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Newsletter - Linux App]]></title>
-            <link>https://blog.otohits.net/2016/08/28/linux-app/</link>
-            <guid>https://blog.otohits.net/2016/08/28/linux-app/</guid>
-            <pubDate>Sun, 28 Aug 2016 00:00:00 GMT</pubDate>
-            <description><![CDATA[This is a copy of an old Othits newsletter
-
-A working version of the Linux application has been published few days ago. Like you maybe know, this is the result of an intensive work over the last months. The launch of the Linux App is a huge milestone for Otohits and I hope you will like it. We're ...]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Newsletter - Happy Birthday Otohits!]]></title>
-            <link>https://blog.otohits.net/2016/05/25/happy-birthday/</link>
-            <guid>https://blog.otohits.net/2016/05/25/happy-birthday/</guid>
-            <pubDate>Wed, 25 May 2016 00:00:00 GMT</pubDate>
-            <description><![CDATA[This is a copy of an old Othits newsletter
-
-Otohits is 3 years old!
-
-It is the perfect time to make a little retrospective on what happened.
-
-First, here are some nice figures compared to last year:
-57 000 members (+185%)
-Around 6 000 active surfers 24h/24 (+122%)
-74 000 links registered (+4 ...]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Newsletter - App v3.1]]></title>
-            <link>https://blog.otohits.net/2016/05/23/app-v3-1/</link>
-            <guid>https://blog.otohits.net/2016/05/23/app-v3-1/</guid>
-            <pubDate>Mon, 23 May 2016 00:00:00 GMT</pubDate>
-            <description><![CDATA[This is a copy of an old Othits newsletter
-
-I'm pleased to announce you that a new version of the application is available.
-
-This major update brings you 2 editions of the Application:
-Desktop: New viewer with the browser integrated in the Application (equivalent to the V2 look and feel).
-VPS: ...]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Newsletter - App v3 feedback]]></title>
-            <link>https://blog.otohits.net/2015/08/27/app-v3-update/</link>
-            <guid>https://blog.otohits.net/2015/08/27/app-v3-update/</guid>
-            <pubDate>Thu, 27 Aug 2015 00:00:00 GMT</pubDate>
-            <description><![CDATA[This is a copy of an old Othits newsletter
-
-First feedbacks for the V3 of the Application are pretty good. Despite few minor issues, it seems to run pretty well. Clicks and auto scroll on pages will be normally introduced early September.
-
-This looks like the right time to introduce back our conte ...]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Newsletter - App v3 update]]></title>
-            <link>https://blog.otohits.net/2015/08/13/app-v3/</link>
-            <guid>https://blog.otohits.net/2015/08/13/app-v3/</guid>
-            <pubDate>Thu, 13 Aug 2015 00:00:00 GMT</pubDate>
-            <description><![CDATA[This is a copy of an old Othits newsletter
-
-Version 3 of the application is out !
-
-2 main objectives have been followed during his development:
-Improve the overall efficiency of the autosurf itself, making sure as much as possible that visits are correctly counted.
-Make it as transparent as po ...]]></description>
         </item>
     </channel>
 </rss>
