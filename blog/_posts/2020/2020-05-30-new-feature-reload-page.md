@@ -6,7 +6,7 @@ tags:
     - Feature
     - Reload
     - Advanced settings
-    - Article
+    - Guide
 ---
 
 ## Say hello to page reload

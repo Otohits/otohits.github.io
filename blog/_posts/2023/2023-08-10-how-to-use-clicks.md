@@ -1,7 +1,7 @@
 ---
 author: Otohits Webmaster
 title: "How to use clicks"
-date: 2023-08-26
+date: 2023-08-10
 tags:
     - Guide
 ---
