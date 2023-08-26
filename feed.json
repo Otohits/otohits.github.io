@@ -6,6 +6,14 @@
     "description": "News and articles about Otohits.net website. Stay up to date with the new features for your surf.",
     "items": [
         {
+            "id": "https://blog.otohits.net/2023/08/26/how-to-use-clicks/",
+            "url": "https://blog.otohits.net/2023/08/26/how-to-use-clicks/",
+            "title": "How to use clicks",
+            "summary": "Clicks is one of the most powerful features available on Otohits. It helps you set up a \"real\" navigation on your website.\n\nTo use it correctly, there are few things to know that we will talk about in this article.\n\nMaking sure your link is compatible\n\nClicks feature does not work on every webs ...",
+            "image": "https://blog.otohits.net/img/guides/clicks_1.png",
+            "date_modified": "2023-08-26T00:00:00.000Z"
+        },
+        {
             "id": "https://blog.otohits.net/2020/10/21/docker-support/",
             "url": "https://blog.otohits.net/2020/10/21/docker-support/",
             "title": "App update, Docker App official support, indirect MacOs availability",
@@ -140,13 +148,6 @@
             "title": "Newsletter - App v3 update",
             "summary": "This is a copy of an old Othits newsletter\n\nVersion 3 of the application is out !\n\n2 main objectives have been followed during his development:\nImprove the overall efficiency of the autosurf itself, making sure as much as possible that visits are correctly counted.\nMake it as transparent as po ...",
             "date_modified": "2015-08-13T00:00:00.000Z"
-        },
-        {
-            "id": "https://blog.otohits.net/2015/05/25/happy-birthday/",
-            "url": "https://blog.otohits.net/2015/05/25/happy-birthday/",
-            "title": "Newsletter - Happy Birthday Otohits!",
-            "summary": "This is a copy of an old Othits newsletter\n\nOtohits is 2 years old !\nIt is the perfect time to make a little retrospective on what happened.\n\nFirst, here are some nice figures compared to last year:\n20 000 members (+571 %)\nAround 2700 active surfers 24h/24 (+2700 %)\n50 000 links registered ( ...",
-            "date_modified": "2015-05-25T00:00:00.000Z"
         }
     ]
 }

@@ -4,10 +4,25 @@
         <title>Otohits blog</title>
         <link>https://blog.otohits.net</link>
         <description>News and articles about Otohits.net website. Stay up to date with the new features for your surf.</description>
-        <lastBuildDate>Tue, 20 Oct 2020 21:44:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Aug 2023 21:23:39 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://blog.otohits.net/feed.atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to use clicks]]></title>
+            <link>https://blog.otohits.net/2023/08/26/how-to-use-clicks/</link>
+            <guid>https://blog.otohits.net/2023/08/26/how-to-use-clicks/</guid>
+            <pubDate>Sat, 26 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Clicks is one of the most powerful features available on Otohits. It helps you set up a "real" navigation on your website.
+
+To use it correctly, there are few things to know that we will talk about in this article.
+
+Making sure your link is compatible
+
+Clicks feature does not work on every webs ...]]></description>
+            <enclosure url="https://blog.otohits.net/img/guides/clicks_1.png">
+            </enclosure>
+        </item>
         <item>
             <title><![CDATA[App update, Docker App official support, indirect MacOs availability]]></title>
             <link>https://blog.otohits.net/2020/10/21/docker-support/</link>
@@ -218,21 +233,6 @@ Version 3 of the application is out !
 2 main objectives have been followed during his development:
 Improve the overall efficiency of the autosurf itself, making sure as much as possible that visits are correctly counted.
 Make it as transparent as po ...]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Newsletter - Happy Birthday Otohits!]]></title>
-            <link>https://blog.otohits.net/2015/05/25/happy-birthday/</link>
-            <guid>https://blog.otohits.net/2015/05/25/happy-birthday/</guid>
-            <pubDate>Mon, 25 May 2015 00:00:00 GMT</pubDate>
-            <description><![CDATA[This is a copy of an old Othits newsletter
-
-Otohits is 2 years old !
-It is the perfect time to make a little retrospective on what happened.
-
-First, here are some nice figures compared to last year:
-20 000 members (+571 %)
-Around 2700 active surfers 24h/24 (+2700 %)
-50 000 links registered ( ...]]></description>
         </item>
     </channel>
 </rss>
