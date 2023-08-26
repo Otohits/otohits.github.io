@@ -8,7 +8,7 @@ tags:
 
 ## What is referer overriding?
 
-The referrer identifies the webpage that the previous request comes from. If you need more explanations on this concept, you can referer to the guide about [hiding the referer](./2023-08-26-how-to-hide-the-referer.md).
+The referrer identifies the webpage that the previous request comes from. If you need more explanations on this concept, you can referer to the guide about [hiding the referer](./2023-08-11-how-to-hide-the-referer.md).
 
 When you override the referer, you make the page beleive that the visit comes from a specific domain.
 

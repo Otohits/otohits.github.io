@@ -24,4 +24,4 @@ When the Application came out, it was decided that having no referer (direct vis
 
 ![Hide the referer action](/img/guides/hide_ref_1.png)
 
-Instead of direct visits, you can also [add custom referers for your links](./2023-08-26-how-to-override-the-referer.md).
+Instead of direct visits, you can also [add custom referers for your links](./2023-08-12-how-to-override-the-referer.md).
