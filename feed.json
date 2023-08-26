@@ -138,18 +138,18 @@
             "date_modified": "2014-10-05T00:00:00.000Z"
         },
         {
-            "id": "https://blog.otohits.net/2013/12/01/_2013-archives/",
-            "url": "https://blog.otohits.net/2013/12/01/_2013-archives/",
-            "title": "Newsletter - Old 2013 news",
-            "summary": "This is a copy of an old Othits newsletter\n\n2013-12-01\n\nThis newsletter is just to remind you that 2 contests start today!\nThere are 10 Euros and 1.4 million points to win.\nGood luck and have a good surf.\n\n2013-11-23\n\nI'm pleased to announce you that a new feature has arrived on Otohits: the ...",
-            "date_modified": "2013-12-01T00:00:00.000Z"
-        },
-        {
             "id": "https://blog.otohits.net/2016/11/30/otohits-api/",
             "url": "https://blog.otohits.net/2016/11/30/otohits-api/",
             "title": "Newsletter - Otohits Api",
             "summary": "This is a copy of an old Othits newsletter\n\nWe are happy to push forward the autosurf world by providing you the Otohits API. Officially launched today, it is a brand new way to use and manage your links and data, but also a new tool that allows you to imagine, create and share new solutions for a ...",
             "date_modified": "2016-11-30T00:00:00.000Z"
+        },
+        {
+            "id": "https://blog.otohits.net/2016/08/28/linux-app/",
+            "url": "https://blog.otohits.net/2016/08/28/linux-app/",
+            "title": "Newsletter - Linux App",
+            "summary": "This is a copy of an old Othits newsletter\n\nA working version of the Linux application has been published few days ago. Like you maybe know, this is the result of an intensive work over the last months. The launch of the Linux App is a huge milestone for Otohits and I hope you will like it. We're ...",
+            "date_modified": "2016-08-28T00:00:00.000Z"
         }
     ]
 }
