@@ -23,7 +23,7 @@ Here are the steps to create and use templates:
 
 * Go to your my sites page
 * Click on the configuration button ![Config button](/img/guides/config_btn.png) of one of your links and click on advanced options and info
-* At the top right of your page, you will see a "Save template" button
+* At the top right of your page, you will see a `Save template` button
 
 ![Save template](/img/guides/tpl_1.png)
 
