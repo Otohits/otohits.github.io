@@ -6,6 +6,14 @@
     "description": "News and articles about Otohits.net website. Stay up to date with the new features for your surf.",
     "items": [
         {
+            "id": "https://blog.otohits.net/2023/08/13/overriding-the-useragent/",
+            "url": "https://blog.otohits.net/2023/08/13/overriding-the-useragent/",
+            "title": "Overriding the user-agent",
+            "summary": "User-agent is like a signature of your browser. With the user-agent, a website knows which browser you are using.\n\nHere is an example of a user-agent: Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0\n\nThe above example shows you the Firefox 31 user-agent.\n\nYou can check your cur ...",
+            "image": "https://blog.otohits.net/img/guides/config_btn.png",
+            "date_modified": "2023-08-13T00:00:00.000Z"
+        },
+        {
             "id": "https://blog.otohits.net/2023/08/12/how-to-override-the-referer/",
             "url": "https://blog.otohits.net/2023/08/12/how-to-override-the-referer/",
             "title": "How to override the referer",
@@ -124,20 +132,6 @@
             "date_modified": "2017-03-04T00:00:00.000Z"
         },
         {
-            "id": "https://blog.otohits.net/2014/10/22/new-app/",
-            "url": "https://blog.otohits.net/2014/10/22/new-app/",
-            "title": "Newsletter - Application update",
-            "summary": "This is a copy of an old Othits newsletter\n\nA new version of the application is ready. It will bring a lot of new features:\nIt will now support random user-agent. The current version use a Chrome user-agent. The new version will use a different user-agent for each visit. If you don't want a rand ...",
-            "date_modified": "2014-10-22T00:00:00.000Z"
-        },
-        {
-            "id": "https://blog.otohits.net/2014/10/05/contests/",
-            "url": "https://blog.otohits.net/2014/10/05/contests/",
-            "title": "Newsletter - Contest and updates",
-            "summary": "This is a copy of an old Othits newsletter\n\nThe contest of September is over. All Winners have been rewarded.\n\nAs a result of this contest, there are also some members that tried to cheat by creating multiple accounts. These false accounts now pollute the website.\nRules will be put in place to cle ...",
-            "date_modified": "2014-10-05T00:00:00.000Z"
-        },
-        {
             "id": "https://blog.otohits.net/2016/11/30/otohits-api/",
             "url": "https://blog.otohits.net/2016/11/30/otohits-api/",
             "title": "Newsletter - Otohits Api",
@@ -150,6 +144,13 @@
             "title": "Newsletter - Linux App",
             "summary": "This is a copy of an old Othits newsletter\n\nA working version of the Linux application has been published few days ago. Like you maybe know, this is the result of an intensive work over the last months. The launch of the Linux App is a huge milestone for Otohits and I hope you will like it. We're ...",
             "date_modified": "2016-08-28T00:00:00.000Z"
+        },
+        {
+            "id": "https://blog.otohits.net/2016/05/25/happy-birthday/",
+            "url": "https://blog.otohits.net/2016/05/25/happy-birthday/",
+            "title": "Newsletter - Happy Birthday Otohits!",
+            "summary": "This is a copy of an old Othits newsletter\n\nOtohits is 3 years old!\n\nIt is the perfect time to make a little retrospective on what happened.\n\nFirst, here are some nice figures compared to last year:\n57 000 members (+185%)\nAround 6 000 active surfers 24h/24 (+122%)\n74 000 links registered (+4 ...",
+            "date_modified": "2016-05-25T00:00:00.000Z"
         }
     ]
 }
