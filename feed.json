@@ -6,6 +6,14 @@
     "description": "News and articles about Otohits.net website. Stay up to date with the new features for your surf.",
     "items": [
         {
+            "id": "https://blog.otohits.net/2023/08/14/links-templates/",
+            "url": "https://blog.otohits.net/2023/08/14/links-templates/",
+            "title": "Link's templates",
+            "summary": "Templates help you quickly copy options on different links.\n\nIt can be very helpful especially with override options (referers, user-agents) as it will load the lists directly when you create a new link.\n\nHere are the steps to create and use templates:\n\nChoose a link as a base model to make the ...",
+            "image": "https://blog.otohits.net/img/guides/config_btn.png",
+            "date_modified": "2023-08-14T00:00:00.000Z"
+        },
+        {
             "id": "https://blog.otohits.net/2023/08/13/overriding-the-useragent/",
             "url": "https://blog.otohits.net/2023/08/13/overriding-the-useragent/",
             "title": "Overriding the user-agent",
@@ -17,7 +25,7 @@
             "id": "https://blog.otohits.net/2023/08/12/how-to-override-the-referer/",
             "url": "https://blog.otohits.net/2023/08/12/how-to-override-the-referer/",
             "title": "How to override the referer",
-            "summary": "The referrer identifies the webpage that the previous request comes from. If you need more explanations on this concept, you can referer to the guide about hiding the referer.\n\nWhen you override the referer, you make the page beleive that the visit comes ...",
+            "summary": "The referrer identifies the webpage that the previous request comes from. If you need more explanations on this concept, you can referer to the guide about hiding the referer.\n\nWhen you override the referer, you make the page believe that the visit comes ...",
             "image": "https://blog.otohits.net/img/guides/config_btn.png",
             "date_modified": "2023-08-12T00:00:00.000Z"
         },
@@ -25,7 +33,7 @@
             "id": "https://blog.otohits.net/2023/08/11/how-to-hide-the-referer/",
             "url": "https://blog.otohits.net/2023/08/11/how-to-hide-the-referer/",
             "title": "How to hide the referer",
-            "summary": "The referrer identifies the webpage that the previous request come from. As an example, if I go to google to look for something, then I click on the result http://mysite.com, mysite.com will be able to know that I come from google.\n\nYou can test it yourself: go to [https://anonymiz.com/myrefer ...",
+            "summary": "The referrer identifies the webpage that the previous request comes from. As an example, if I go to google to look for something, then I click on the result http://mysite.com, mysite.com will be able to know that I come from google.\n\nYou can test it yourself: go to [https://anonymiz.com/myrefe ...",
             "image": "https://blog.otohits.net/img/guides/hide_ref_1.png",
             "date_modified": "2023-08-11T00:00:00.000Z"
         },
@@ -144,13 +152,6 @@
             "title": "Newsletter - Linux App",
             "summary": "This is a copy of an old Othits newsletter\n\nA working version of the Linux application has been published few days ago. Like you maybe know, this is the result of an intensive work over the last months. The launch of the Linux App is a huge milestone for Otohits and I hope you will like it. We're ...",
             "date_modified": "2016-08-28T00:00:00.000Z"
-        },
-        {
-            "id": "https://blog.otohits.net/2016/05/25/happy-birthday/",
-            "url": "https://blog.otohits.net/2016/05/25/happy-birthday/",
-            "title": "Newsletter - Happy Birthday Otohits!",
-            "summary": "This is a copy of an old Othits newsletter\n\nOtohits is 3 years old!\n\nIt is the perfect time to make a little retrospective on what happened.\n\nFirst, here are some nice figures compared to last year:\n57 000 members (+185%)\nAround 6 000 active surfers 24h/24 (+122%)\n74 000 links registered (+4 ...",
-            "date_modified": "2016-05-25T00:00:00.000Z"
         }
     ]
 }

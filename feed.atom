@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.otohits.net</id>
     <title>Otohits blog</title>
-    <updated>2023-08-27T14:20:40.013Z</updated>
+    <updated>2023-08-27T15:08:09.919Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://blog.otohits.net"/>
     <link rel="self" href="https://blog.otohits.net/feed.atom"/>
     <subtitle>News and articles about Otohits.net website. Stay up to date with the new features for your surf.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Link's templates]]></title>
+        <id>https://blog.otohits.net/2023/08/14/links-templates/</id>
+        <link href="https://blog.otohits.net/2023/08/14/links-templates/">
+        </link>
+        <updated>2023-08-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Templates help you quickly copy options on different links.
+
+It can be very helpful especially with override options (referers, user-agents) as it will load the lists directly when you create a new link.
+
+Here are the steps to create and use templates:
+
+Choose a link as a base model to make the ...]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Overriding the user-agent]]></title>
         <id>https://blog.otohits.net/2023/08/13/overriding-the-useragent/</id>
@@ -29,7 +43,7 @@ You can check your cur ...]]></summary>
         <updated>2023-08-12T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[The referrer identifies the webpage that the previous request comes from. If you need more explanations on this concept, you can referer to the guide about hiding the referer.
 
-When you override the referer, you make the page beleive that the visit comes ...]]></summary>
+When you override the referer, you make the page believe that the visit comes ...]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[How to hide the referer]]></title>
@@ -37,9 +51,9 @@ When you override the referer, you make the page beleive that the visit comes ..
         <link href="https://blog.otohits.net/2023/08/11/how-to-hide-the-referer/">
         </link>
         <updated>2023-08-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The referrer identifies the webpage that the previous request come from. As an example, if I go to google to look for something, then I click on the result http://mysite.com, mysite.com will be able to know that I come from google.
+        <summary type="html"><![CDATA[The referrer identifies the webpage that the previous request comes from. As an example, if I go to google to look for something, then I click on the result http://mysite.com, mysite.com will be able to know that I come from google.
 
-You can test it yourself: go to [https://anonymiz.com/myrefer ...]]></summary>
+You can test it yourself: go to [https://anonymiz.com/myrefe ...]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[How to use clicks]]></title>
@@ -221,22 +235,5 @@ We are happy to push forward the autosurf world by providing you the Otohits API
         <summary type="html"><![CDATA[This is a copy of an old Othits newsletter
 
 A working version of the Linux application has been published few days ago. Like you maybe know, this is the result of an intensive work over the last months. The launch of the Linux App is a huge milestone for Otohits and I hope you will like it. We're ...]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsletter - Happy Birthday Otohits!]]></title>
-        <id>https://blog.otohits.net/2016/05/25/happy-birthday/</id>
-        <link href="https://blog.otohits.net/2016/05/25/happy-birthday/">
-        </link>
-        <updated>2016-05-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is a copy of an old Othits newsletter
-
-Otohits is 3 years old!
-
-It is the perfect time to make a little retrospective on what happened.
-
-First, here are some nice figures compared to last year:
-57 000 members (+185%)
-Around 6 000 active surfers 24h/24 (+122%)
-74 000 links registered (+4 ...]]></summary>
     </entry>
 </feed>
