@@ -6,6 +6,14 @@
     "description": "News and articles about Otohits.net website. Stay up to date with the new features for your surf.",
     "items": [
         {
+            "id": "https://blog.otohits.net/2023/08/15/using-throttling/",
+            "url": "https://blog.otohits.net/2023/08/15/using-throttling/",
+            "title": "Using the throttling to limit the visits",
+            "summary": "Throttling helps you control the number of visits you will receive per hour (and therefore, the number of points your link will use).\n\nWe recommend you use it on new links to test them to avoid wasting too many points.\n\nThere are 2 ways to use the throttling:\n\nUsing the classic limit per hour\n ...",
+            "image": "https://blog.otohits.net/img/guides/config_btn.png",
+            "date_modified": "2023-08-15T00:00:00.000Z"
+        },
+        {
             "id": "https://blog.otohits.net/2023/08/14/links-templates/",
             "url": "https://blog.otohits.net/2023/08/14/links-templates/",
             "title": "Link's templates",
@@ -145,13 +153,6 @@
             "title": "Newsletter - Otohits Api",
             "summary": "This is a copy of an old Othits newsletter\n\nWe are happy to push forward the autosurf world by providing you the Otohits API. Officially launched today, it is a brand new way to use and manage your links and data, but also a new tool that allows you to imagine, create and share new solutions for a ...",
             "date_modified": "2016-11-30T00:00:00.000Z"
-        },
-        {
-            "id": "https://blog.otohits.net/2016/08/28/linux-app/",
-            "url": "https://blog.otohits.net/2016/08/28/linux-app/",
-            "title": "Newsletter - Linux App",
-            "summary": "This is a copy of an old Othits newsletter\n\nA working version of the Linux application has been published few days ago. Like you maybe know, this is the result of an intensive work over the last months. The launch of the Linux App is a huge milestone for Otohits and I hope you will like it. We're ...",
-            "date_modified": "2016-08-28T00:00:00.000Z"
         }
     ]
 }

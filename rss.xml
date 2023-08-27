@@ -4,10 +4,26 @@
         <title>Otohits blog</title>
         <link>https://blog.otohits.net</link>
         <description>News and articles about Otohits.net website. Stay up to date with the new features for your surf.</description>
-        <lastBuildDate>Sun, 27 Aug 2023 15:08:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Aug 2023 15:17:20 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://blog.otohits.net/feed.atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Using the throttling to limit the visits]]></title>
+            <link>https://blog.otohits.net/2023/08/15/using-throttling/</link>
+            <guid>https://blog.otohits.net/2023/08/15/using-throttling/</guid>
+            <pubDate>Tue, 15 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Throttling helps you control the number of visits you will receive per hour (and therefore, the number of points your link will use).
+
+We recommend you use it on new links to test them to avoid wasting too many points.
+
+There are 2 ways to use the throttling:
+
+Using the classic limit per hour
+ ...]]></description>
+            <enclosure url="https://blog.otohits.net/img/guides/config_btn.png">
+            </enclosure>
+        </item>
         <item>
             <title><![CDATA[Link's templates]]></title>
             <link>https://blog.otohits.net/2023/08/14/links-templates/</link>
@@ -223,15 +239,6 @@ The concept is quite simple: activating this feature will considerably reduce th
             <description><![CDATA[This is a copy of an old Othits newsletter
 
 We are happy to push forward the autosurf world by providing you the Otohits API. Officially launched today, it is a brand new way to use and manage your links and data, but also a new tool that allows you to imagine, create and share new solutions for a ...]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Newsletter - Linux App]]></title>
-            <link>https://blog.otohits.net/2016/08/28/linux-app/</link>
-            <guid>https://blog.otohits.net/2016/08/28/linux-app/</guid>
-            <pubDate>Sun, 28 Aug 2016 00:00:00 GMT</pubDate>
-            <description><![CDATA[This is a copy of an old Othits newsletter
-
-A working version of the Linux application has been published few days ago. Like you maybe know, this is the result of an intensive work over the last months. The launch of the Linux App is a huge milestone for Otohits and I hope you will like it. We're ...]]></description>
         </item>
     </channel>
 </rss>
