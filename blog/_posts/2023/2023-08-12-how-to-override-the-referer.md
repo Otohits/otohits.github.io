@@ -22,21 +22,21 @@ With the override referer feature, you can put any domain as referers and you li
 
 * Go to your my sites page
 * Click on the configuration button ![Config button](/img/guides/config_btn.png) of one of your links and click on advanced options and info
-* Scroll down to the `Change referer tab` and click on `Enable referer override`
+* Find the `Change the referer` row and enable it
 
-![Override referer tab](/img/guides/ov_ref_1.png)
+![Override referer row](/img/guides/ov_ref_1.png)
 
-* Next, add the domains you want to use. Make sure they are absolute URLs (ex: `https://facebook.com` or `https://twitter.com`)
+* You will see a table with a row below to add a new referer. You can also select pre-made user-agents from the suggestion list
 
 ![Override referer visit type](/img/guides/ov_ref_2.png)
 
 * You will see that 100% of the visits will come from Otohits domain or will be direct visits. To update this value, you'll need to set the percentage of visits to use with the custom domains you added previously
 
-* As the example below, I set 25% for facebook and 75% for Twitter. After then, click the `Update %` button
+* As the example below, I set 25% for facebook and 75% for Twitter. After then, click the `Update` button
 
 ![Override referer update](/img/guides/ov_ref_3.png)
 
-* The text should now say: `Visits with custom referer:100%`
+* The text should now say: `Visits with custom referer: 100%`
 
 ## Points to consider when using the override referer feature
 
