@@ -4,10 +4,43 @@
         <title>Otohits blog</title>
         <link>https://blog.otohits.net</link>
         <description>News and articles about Otohits.net website. Stay up to date with the new features for your surf.</description>
-        <lastBuildDate>Sun, 27 Aug 2023 15:27:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Aug 2023 18:04:50 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://blog.otohits.net/feed.atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Quick start on Otohits]]></title>
+            <link>https://blog.otohits.net/2023/08/18/quick-start/</link>
+            <guid>https://blog.otohits.net/2023/08/18/quick-start/</guid>
+            <pubDate>Fri, 18 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[This article will help you make your first steps on Otohits.
+
+Settings
+
+On your first connection, you will be redirected to your Settings page.
+
+There are 3 categories of settings that you can access:
+
+General
+
+Surf categories
+
+These are the [ca ...]]></description>
+            <enclosure url="https://blog.otohits.net/img/guides/gs_1.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Link categories]]></title>
+            <link>https://blog.otohits.net/2023/08/17/link-categories/</link>
+            <guid>https://blog.otohits.net/2023/08/17/link-categories/</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[This category regroups links that are considered safe. Every member can surf on them with the Application without any issue.
+
+Rules of the Safe category
+
+The link needs to have real content. Empty links will be considered as PTP.
+The link should not display too many ads. Common limit is ...]]></description>
+        </item>
         <item>
             <title><![CDATA[Link status]]></title>
             <link>https://blog.otohits.net/2023/08/16/link-status/</link>
@@ -216,29 +249,6 @@ The last newsletter was sent more than 2 years ago (November 2017). It doesn't m
             <description><![CDATA[This is a copy of an old Othits newsletter
 
 Coin miners are spreading over a lot of websites. We consider them to be clearly not adapted to autosurfs as they are mostly misused (taking up all the CPU without user consent). It will likely result in a bad user experience and as such we do not approv ...]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Newsletter - Happy birthday Otohits!]]></title>
-            <link>https://blog.otohits.net/2017/05/25/newsletter-anniversary-4/</link>
-            <guid>https://blog.otohits.net/2017/05/25/newsletter-anniversary-4/</guid>
-            <pubDate>Thu, 25 May 2017 00:00:00 GMT</pubDate>
-            <description><![CDATA[This is a copy of an old Othits newsletter
-
-Otohits is 4 years old!
-Let's take a moment to see what happened during this year.
-
-We welcomed 49 000 new members as well as providing almost 7 billion visits, that's more than the 3 previous years combined!
-To all the members: a big thanks for all of y ...]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Newsletter - High quality mod]]></title>
-            <link>https://blog.otohits.net/2017/03/04/newsletter-high-quality/</link>
-            <guid>https://blog.otohits.net/2017/03/04/newsletter-high-quality/</guid>
-            <pubDate>Sat, 04 Mar 2017 00:00:00 GMT</pubDate>
-            <description><![CDATA[This is a copy of an old Othits newsletter
-
-A new feature will be released soon, it's called the "High quality mod".
-The concept is quite simple: activating this feature will considerably reduce the visits from proxies/VPS/Servers and low quality computers and thus provide a more natural traffic f ...]]></description>
         </item>
     </channel>
 </rss>
