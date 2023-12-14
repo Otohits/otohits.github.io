@@ -1,5 +1,5 @@
 
-name: Jekyll site CI7
+name: Jekyll site CI2
 
 on:
   push:
