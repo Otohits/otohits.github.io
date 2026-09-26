@@ -3,7 +3,7 @@ author: Otohits Webmaster
 title: "App update, Docker App official support, indirect MacOs availability"
 date: 2020-10-21
 tags:
-    - App
+    - Application
 ---
 
 ## App version 5066
