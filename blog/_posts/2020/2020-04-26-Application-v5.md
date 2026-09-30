@@ -1,6 +1,6 @@
 ---
 author: Otohits Webmaster
-title: "Applications - v5 is out"
+title: "Applications: v5 is out"
 date: 2020-04-26
 tags:
     - Application
